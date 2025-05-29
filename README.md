@@ -1,4 +1,4 @@
-# E-Commerce-Sale-Profit-Analysis - SQL
+# E-Commerce-Sale-Profit-Analysis
 
 This project focuses on performing exploratory data analysis (EDA) and advanced SQL-based analytics on an E-commerce sales dataset. The goal is to uncover key business insights regarding sales, revenue, customer behavior, and product performance.
 
